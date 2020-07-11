@@ -7,7 +7,7 @@
 
 * Contributing to [@StackinFlow](https://github.com/stackinflow) Open Source Organisation.
 
-* Non-tech time goes in to Running 🏃‍♂️ , Food 🍜, Travel 🌏 ....
+* Non-Tech time goes in to Running 🏃‍♂️ , Food 🍜, Travel 🌏 ....
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prudhvir3ddy/)

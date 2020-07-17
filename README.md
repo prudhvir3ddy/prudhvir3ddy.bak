@@ -3,7 +3,7 @@
 ###### A Software Developer 🚀 with experience of building Web 🕸️ and Mobile 📱 applications. I Figure out things, Solve some problems and I can read documentation and errors correctly to build scalable, testable, efficient and maintainable products. 
 
 
-* Building Products [@MutualMobile](https://mutualmobile.com/) as Associate Engineer. 
+* Building Products [@MutualMobile](https://mutualmobile.com/) as Associate Engineer mostly android but i explore every stack out there. 
 
 * Contributing to [@StackinFlow](https://github.com/stackinflow) Open Source Organisation.
 
